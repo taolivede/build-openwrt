@@ -19,4 +19,4 @@ git clone https://github.com/jerrykuku/luci-app-jd-dailybonus.git package/lean/l
 svn co https://github.com/xiaorouji/openwrt-package/trunk/lienol/luci-app-passwall package/lean/luci-app-passwall  #passwall出国软件
 svn co https://github.com/xiaorouji/openwrt-package/trunk/package package/lean/package  #passwall出国软件配套
 git clone https://github.com/esirplayground/luci-app-poweroff.git package/lean/luci-app-poweroff  #关机（增加关机功能）
-git clone https://github.com/jefferymvp/luci-app-koolproxyR.git package/lean/luci-app-koolproxyR #去广告
+git clone https://github.com/rufengsuixing/luci-app-adguardhome.git package/lean/luci-app-adguardhome #去广告
