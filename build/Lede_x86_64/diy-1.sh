@@ -9,6 +9,9 @@ sed -i '$a src-git helloworld https://github.com/fw876/helloworld' feeds.conf.de
 git clone https://github.com/rosywrt/luci-theme-rosy.git package/lean/luci-theme-rosy  #主题-rosy
 git clone -b 18.06 https://github.com/garypang13/luci-theme-edge.git package/lean/luci-theme-edge  #主题-edge
 git clone https://github.com/xiaoqingfengATGH/luci-theme-infinityfreedom.git package/lean/luci-theme-infinityfreedom  #透明主题
+git clone https://github.com/solidus1983/luci-theme-opentomato.git package/lean/luci-theme-opentomato  #主题-tomato
+git clone https://github.com/Leo-Jo-My/luci-theme-opentomcat.git package/lean/luci-theme-opentomcat  #主题-tomcat
+git clone https://github.com/sirpdboy/luci-theme-opentopd.git package/lean/luci-theme-opentopd  #主题-topd
 git clone -b master https://github.com/vernesong/OpenClash.git package/lean/luci-app-openclash  #openclash出国软件
 git clone https://github.com/frainzy1477/luci-app-clash.git package/lean/luci-app-clash  #clash出国软件
 git clone https://github.com/tty228/luci-app-serverchan.git package/lean/luci-app-serverchan  #微信推送
